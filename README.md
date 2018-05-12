@@ -1,0 +1,2 @@
+# svocoin
+new altcoin
